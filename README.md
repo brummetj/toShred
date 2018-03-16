@@ -1,5 +1,5 @@
 # toShred
-----
+---
 ## Problems and Solutions
 * We need to figure out the exact problem to snow fall we can find some sort of solution for.
   * Possibly who will get the most snow fall in the country?
