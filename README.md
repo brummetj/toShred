@@ -7,9 +7,9 @@
 
 ## Links - Weather & Machine learning
 
-[Machine Learning using the weatherunderground API] (http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/)
+* [Machine Learning using the weatherunderground API](http://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1/)
   * This is a perfect place to get tons of weather information directly through a API. 
 
-[Using amazon ML weather] (https://arnesund.com/2015/05/31/using-amazon-machine-learning-to-predict-the-weather/)
+* [Using amazon ML weather](https://arnesund.com/2015/05/31/using-amazon-machine-learning-to-predict-the-weather/)
 
-[Stanford paper on ML and weather] (http://cs229.stanford.edu/proj2016/report/HolmstromLiuVo-MachineLearningAppliedToWeatherForecasting-report.pdf) 
+* [Stanford paper on ML and weather](http://cs229.stanford.edu/proj2016/report/HolmstromLiuVo-MachineLearningAppliedToWeatherForecasting-report.pdf) 
